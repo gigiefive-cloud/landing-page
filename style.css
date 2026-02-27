@@ -1,0 +1,41 @@
+    * {
+        font-family: "Work Sans", sans-serif;
+
+    }
+
+    .inter {
+        font-family: "Inter", sans-serif;
+    }
+
+
+
+    /* .red {
+    color: red;
+}
+.italic { 
+    font-style: italic;  
+}
+.green {
+    color: #2fc343;
+} 
+.bold {
+    font-weight: normal;
+}
+.blizzard {
+    color: #152284;
+} */
+
+    #hero {
+        text-align: center;
+        padding: 30px;
+        background-color: #ffffff82;
+    }
+
+    #product .wrap {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        border: 20px solid rgba(255, 255, 0, 0.372);
+        padding: 10px;
+    }
